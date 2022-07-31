@@ -521,7 +521,12 @@ nav{
     box-shadow: 0 20px 80px 0 (rgb(0,0,0,0.45));
     overflow: hidden;
     margin: 135px 0;
+    height: 530px;
     
+}
+
+.google{
+    border: 1px solid #242424;
 }
 
 .project__wrapper:hover .project__description{
